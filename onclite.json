@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1616659815,
-      "filename": "styxOS-1.2-Athena-onclite-OFFICIAL-20210326-0306.zip",
-      "id": "00970d7d120e852c20209df3c1f5ec1b",
-      "romtype": "Athena",
-      "size": 1272744400,
-      "url": "https://sourceforge.net/projects/malvibuilds/files/onc/styxOS-1.2-Athena-onclite-OFFICIAL-20210326-0306.zip/download",
-      "version": "1.3"
+      "datetime": 1626025332,
+      "filename": "styxOS-1.6-Athena-onclite-OFFICIAL-20210711-1742.zip",
+      "id": "df8df8f53fb30cd3e2ac2542c2917ef8",
+      "romtype": "OFFICIAL",
+      "size": 1341711615,
+      "url": "https://sourceforge.net/projects/styx-os/files/Athena/release/onclite/styxOS-1.6-Athena-onclite-OFFICIAL-20210711-1742.zip",
+      "version": "1.6"
     }
   ]
 }
