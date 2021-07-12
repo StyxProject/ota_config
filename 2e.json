@@ -2,12 +2,12 @@
   "response": [
     {
       "datetime": 1626065941,
-      "filename": "styxOS-1.7-Athena-2e-OFFICIAL-20210712-0949.zip",
+      "filename": "styxOS-1.6-Athena-2e-OFFICIAL-20210712-0949.zip",
       "id": "373bf47c89ac0b986a3fd3087a8ccdf0",
       "romtype": "OFFICIAL",
       "size": 1351930297,
       "url": "https://sourceforge.net/projects/styx-os/files/Athena/release/2e/styxOS-1.6-Athena-2e-OFFICIAL-20210712-0949.zip",
-      "version": "1.7"
+      "version": "1.6"
     }
   ]
 }
