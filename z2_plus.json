@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1628483395,
-      "filename": "styxOS-1.7-Athena-z2_plus-OFFICIAL-20210809-0452.zip",
-      "id": "19c9c412eb2db192bc6346e9113da056",
+      "datetime": 1631088877,
+      "filename": "styxOS-1.8-Athena-z2_plus-OFFICIAL-20210908-0816.zip",
+      "id": "2e66eeff76474f32c8139d066a85f062",
       "romtype": "OFFICIAL",
-      "size": 1251982201,
-      "url": "https://sourceforge.net/projects/styx-os/files/Athena/release/z2_plus/styxOS-1.7-Athena-z2_plus-OFFICIAL-20210809-0452.zip",
-      "version": "1.7"
+      "size": 1272851605,
+      "url": "https://sourceforge.net/projects/styx-os/files/Athena/release/z2_plus/styxOS-1.8-Athena-z2_plus-OFFICIAL-20210908-0816.zip",
+      "version": "1.8"
     }
   ]
 }
